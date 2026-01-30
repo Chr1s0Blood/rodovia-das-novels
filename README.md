@@ -5,3 +5,5 @@ Nosso objetivo é levar os leitores brasileiros de WebNovels a explorar um unive
 Atualmente a nova versão está em "standby", esperando novos colaboradores demonstrarem interesse em ajudar o projeto.
 
 Para mais informações, acesse o Discord dedicado: https://discord.gg/FWy8ZhE38P
+
+Lembrando que há apenas eu como gerenciador e desenvolvedor da Rodovia, por isso procuro pessoas que queiram ajudar!
