@@ -7,3 +7,5 @@ Atualmente a nova versão está em "standby", esperando novos colaboradores demo
 Para mais informações, acesse o Discord dedicado: https://discord.gg/FWy8ZhE38P
 
 Lembrando que há apenas eu como gerenciador e desenvolvedor da Rodovia, por isso procuro pessoas que queiram ajudar!
+
+Mais tardar será criado uma organização para melhorar a organização do projeto.
